@@ -4,7 +4,7 @@
   
   body {
     font-family: chalkduster;
-    colour: white;
+    color: white;
     padding: 10px;
     background: #f1f1f1;
   }
@@ -19,6 +19,7 @@
   
   .header h1 {
     font-size: 50px;
+    
   }
   
   /* Style the top navigation bar */
