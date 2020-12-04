@@ -9,7 +9,7 @@
   
   /* Header/Blog Title */
   .header {
-    font-family: chalkduster;
+    
     padding: 30px;
     color: white;
     text-align: center;
@@ -17,6 +17,7 @@
   }
   
   .header h1 {
+    font-family: chalkduster;
     font-size: 50px;
     
   }
