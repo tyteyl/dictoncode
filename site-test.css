@@ -13,7 +13,7 @@
     padding: 30px;
     color: white;
     text-align: center;
-    background: #606060;
+    background: #404040;
   }
   
   .header h1 {
@@ -24,7 +24,7 @@
   /* Style the top navigation bar */
   .topnav {
     overflow: hidden;
-    background-color: #333;
+    background-color: #606060;
   }
   
   /* Style the topnav links */
