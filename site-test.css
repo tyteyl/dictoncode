@@ -20,7 +20,11 @@
     font-size: 50px;
     
   }
-  
+  .headerCh.left {
+    position: left;
+    
+  }  
+
   /* Style the top navigation bar */
   .topnav {
     font-family: Arial;
