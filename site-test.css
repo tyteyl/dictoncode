@@ -11,8 +11,9 @@
   /* Header/Blog Title */
   .header {
     padding: 30px;
+    font-colour: white;
     text-align: center;
-    background: white;
+    background: black;
   }
   
   .header h1 {
